@@ -1,0 +1,6 @@
+#Ignore el archivo ignorado.txt
+ignorado.txt
+
+#Ignorar los ejecutables
+a.out
+a.exe
